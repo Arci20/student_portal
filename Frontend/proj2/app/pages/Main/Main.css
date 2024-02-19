@@ -1,0 +1,47 @@
+.container12{
+    width: 1500px;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+    background-color: blue;
+    height: 15vh;
+    max-height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.h-container12{
+    display: flex;
+    margin-top: 1rem;
+    padding-left: -60%;
+}
+
+.sections12{
+    padding-left: 1%;
+    display: flex;
+    padding-top: 4rem;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-direction: row;
+    position: absolute;
+    max-width: 100%;
+    width: 1120px;
+    height: 80vh;
+    margin-top: 60px;
+    background-color: white;
+    border-radius: 1rem;
+} 
+
+.card12{
+    border: 1px solid white;
+    padding: 2rem;
+    -moz-box-shadow: 0 0 3px gray;
+    -webkit-box-shadow: 0 0 3px gray;
+     box-shadow: 0 0 15px gray;
+     border-radius: 5px;
+}
+
+h2{
+    border-top: 1px solid wheat;
+    margin-top: 7px;
+}

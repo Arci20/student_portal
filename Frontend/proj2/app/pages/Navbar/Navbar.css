@@ -1,0 +1,22 @@
+.container5{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 1px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper5{
+    border-bottom: 1px solid white;
+    padding-bottom: -1rem;
+}
+
+.logo5{
+    margin-right: -90%;
+}
+
+.logo53{
+    margin-left: 15%;
+}
